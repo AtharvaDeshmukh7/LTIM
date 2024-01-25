@@ -1,0 +1,6 @@
+#!bin/bash
+read A
+echo"Enter first numbe "$A
+read B
+echo"Enter second number $B"
+

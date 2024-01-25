@@ -1,0 +1,7 @@
+Hello this is spark and AWS Bathc
+learning Spark using python
+Python is dynamically typed language
+high level language
+
+
+
